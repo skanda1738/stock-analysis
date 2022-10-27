@@ -11,3 +11,8 @@ As it can be seen in the image below, this is the macro running from the origina
 After fully refactoring the code and enabling excel to pull all the same information, but with fewer steps, the time to pull all the data was significantly reduced, as it can be seen from the image below.
 
 ![VBA_Challenge_2018_Refactored](https://user-images.githubusercontent.com/114959143/198392263-4d22743d-8ee4-4bd8-b9e9-17896d9bb4f7.png)
+
+#### Summary
+To sum up, the advantages of refactoring is that it allows excel to run the code quicker, by going through less loops and other steps. In addition, refactoring also helps other people looking at the code since it is easier to follow most of the time. 
+
+Since the original code may get messy, it is important to go back or have someone else look at it, to see if there is any way to help optimize the data collection process. This will be more and more useful with larger datasets.
